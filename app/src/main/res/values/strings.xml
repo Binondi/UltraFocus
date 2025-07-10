@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">UltraFocus</string>
+    <string name="enable_focus_mode">Enable Focus Mode</string>
+    <string name="if_you_enable_focus_mode_your_selected_app_will_not_be_opened">If you enable focus mode your selected app will not be opened.</string>
+    <string name="add_apps_to_focus_list">Add Apps To Focus List</string>
+    <string name="select_apps_message">Click on the add button and select your distracted apps.</string>
+    <string name="add_apps">Add Apps</string>
+    <string name="selected_apps_list">Selected Apps List</string>
+    <string name="done">Done</string>
+    <string name="select_apps">Select Apps</string>
+    <string name="add_time_period">Add Time Period</string>
+    <string name="accessibility_service_description">Performs restrict selected apps for increase focus.</string>
+    <string name="addiction_image">Addiction Image</string>
+    <string name="hold_on">Hold On!</string>
+    <string name="back_to_focus_mode">Back to Focus Mode</string>
+    <string name="settings">Settings</string>
+    <string name="enable_accessibility_service">Enable Accessibility Service</string>
+    <string name="permission_message">UltraFocus uses the Accessibility permission to provide features like app monitoring and use tracking to enhance your experience.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="accessibility_permission_app_blocker">
+        Enabling this would unlock the following in UltraFocus:\n1. App Blocking\n2, Focus Mode \n\n
+        UltraFocus needs access to accessibility data to know when you open a specific feature within an app, like a social media feed or a game.
+        This lets UltraFocus block those features for you based on your preferences, helping you stay focused and reduce screen distractions.\n\n
+        Rest assured, all accessibility data stays securely on your device—we never share or transmit your data, ensuring your privacy is always protected.
+        \n\n
+    </string>
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <Button
+        android:id="@+id/btnFromTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:text="From Time" />
+
+    <Button
+        android:id="@+id/btnToTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="To Time"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_marginTop="12dp" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_marginTop="16dp"
+        android:backgroundTint="@android:color/transparent"
+        android:layout_height="wrap_content">
+        <Spinner
+            android:id="@+id/spinnerRepeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </com.google.android.material.card.MaterialCardView>
+
+
+</LinearLayout> 

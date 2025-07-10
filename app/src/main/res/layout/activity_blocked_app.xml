@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="24dp"
+    tools:context=".activities.BlockedAppActivity">
+
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:src="@drawable/ic_phone_addiction"
+        android:contentDescription="@string/addiction_image"
+        android:layout_marginBottom="24dp"/>
+
+    <TextView
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hold_on"
+        android:textStyle="bold"
+        android:textSize="28sp"
+        android:textColor="@color/orange"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:id="@+id/messageTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Take a short break.\nLet your mind rest and do something offline.\nYou’ve got this!"
+        android:textSize="16sp"
+        android:gravity="center"
+        android:padding="16dp"
+        android:layout_marginBottom="24dp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnBackToFocus"
+        android:layout_width="wrap_content"
+        android:layout_height="55dp"
+        android:text="@string/back_to_focus_mode"
+        style="@style/Widget.Material3.Button.OutlinedButton"
+        android:layout_marginTop="12dp"/>
+
+</LinearLayout>
