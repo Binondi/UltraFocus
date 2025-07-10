@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center"> 
+         
+<h4>Download</h4>
+
+<a>[<img src="https://github.com/machiav3lli/oandbackupx/blob/034b226cea5c1b30eb4f6a6f313e4dadcbb0ece4/badge_github.png" alt="Get it on GitHub" height="80">](https://github.com/binondi/Calculator-Hide-Files/releases) </a>
+
+</div>
+
 ## ✨ Features
 
 - ✅ Select apps to block
@@ -20,7 +28,23 @@
 
 ## 📸 Screenshots
 
-*(Insert screenshots here if available — showing app selection, timer screen, focus screen, etc.)*
+<div align="center">
+  <img src="media/Screenshot_1.jpg" alt="UltraFocus" width="32%">
+  <img src="media/Screenshot_2.jpg" alt="UltraFocus" width="32%">
+  <img src="media/Screenshot_3.jpg" alt="UltraFocus" width="32%">
+</div>
+
+<div align="center">
+  <img src="media/Screenshot_4.jpg" alt="UltraFocus" width="32%">
+  <img src="media/Screenshot_5.jpg" alt="UltraFocus" width="32%">
+    <img src="media/Screenshot_6.jpg" alt="UltraFocus" width="32%">
+</div>
+
+<div align="center">
+    <img src="media/Screenshot_7.jpg" alt="UltraFocus" width="32%">
+    <img src="media/Screenshot_8.jpg" alt="UltraFocus" width="32%">
+    <img src="media/Screenshot_9.jpg" alt="UltraFocus" width="32%">
+</div>
 
 ---
 
