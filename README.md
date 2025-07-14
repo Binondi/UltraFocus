@@ -1,4 +1,4 @@
-# 📱 UltraFocus 
+# 📱 UltraFocus
 
 **UltraFocus** is an open-source Android app that helps you beat distractions and improve productivity by blocking selected apps for a specific time duration. Once **Focus Mode** is enabled, any app you've added to your block list will be force-closed if opened, and a focus screen will be displayed instead.
 
